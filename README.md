@@ -1,4 +1,4 @@
-# frenchtoastin
+# frenchtoastino
 ## Arduino-Powered French Toast Alert Monitor
 
 Display the Current French Toast Alert Level with colorful LEDs!  It also beeps whenever the alert status changes.
